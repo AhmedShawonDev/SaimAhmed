@@ -15,7 +15,7 @@ Here are a few previews of the website:
 
 ## 🚀 Live Preview
 
-👉 [View Portfolio](https://saim-ahmed-shawon.github.io/SaimAhmed)  
+👉 [View Portfolio](https://ahmedshawondev.github.io/SaimAhmed)  
 
 ## 📌 About the Project
 
